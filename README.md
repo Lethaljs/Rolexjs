@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things 🤣
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me anything [here](https://www.instagram.com/rolex.xew/) related to <b>Android application Development, Windows Forms, Android Custom Operating System Development, IOS Development, C#, Java, Javascript, Swift, Unity.</b>
 - ⚡ Fun fact: I ❤️ & 🏍️
-- My Dicord LeFearr#1000
+- My Dicord Rolex#0002
 
 ### Connect with me:
 
