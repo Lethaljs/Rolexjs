@@ -1,4 +1,4 @@
-### Hi there, I'm a Student My Name is Rolex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm a Student My Name is Lethal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <!--
 **lefearr/lefearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things 🤣
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me anything [here](https://www.instagram.com/rolex.xew/) related to <b>Android application Development, Windows Forms, Android Custom Operating System Development, IOS Development, C#, Java, Javascript, Swift, Unity.</b>
 - ⚡ Fun fact: I ❤️ & 🏍️
-- My Dicord Rolex#0002
+- My Dicord Lethal#0001
 
 ### Connect with me:
 
