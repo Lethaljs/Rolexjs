@@ -45,5 +45,5 @@ This is the place where I opensource stuff and break things 🤣
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolexjs&layout=compact)
 
 
-[instagram]: https://www.instagram.com/rolex.xew/
+[instagram]: https://www.instagram.com/rolexhype12/
 [github]: https://github.com/rolexjs
